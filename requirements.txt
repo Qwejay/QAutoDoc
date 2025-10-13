@@ -1,0 +1,3 @@
+# QAutoDoc 依赖包
+PyQt5>=5.15.0
+python-docx>=0.8.11
