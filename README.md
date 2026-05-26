@@ -1,6 +1,5 @@
 # QAutoDoc - Word文档内容自动填充工具
 
-# QAutoDoc
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.7+-blue.svg" alt="Python Version">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
@@ -47,14 +46,14 @@
 ```bash
 pip install PyQt5 python-docx python-pptx openpyxl
 
-## 许可证
+### 许可证
 
 本项目采用MIT许可证。
 
-## 贡献
+### 贡献
 
 欢迎提交Issue和Pull Request来改进项目。
 
-## 联系方式
+### 联系方式
 
 如有问题或建议，请通过项目Issue页面联系。
